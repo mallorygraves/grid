@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    height: 100vh;
+ 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 25px;
+}
+ 
+header{
+    background-color: rgb(17, 0, 255);
+    font-family: cursive;
+    font-size: 30px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    background-color: #e0f;
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    background-color: rgb(60, 255, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.one{
+    background-color: rgb(208, 255, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    background-color: #a0f;
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    background-color: rgb(0, 174, 255);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    background-color: rgb(255, 153, 0);
+    color: white;
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

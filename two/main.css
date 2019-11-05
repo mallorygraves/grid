@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    height: 100vh;
+ 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 25px;
+}
+ 
+header{
+    background-color: #f0f;
+    font-family: cursive;
+    font-size: 30px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    background-color: rgb(0, 255, 200);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    background-color: rgb(200, 255, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.one{
+    background-color: rgb(255, 145, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    background-color: rgb(0, 255, 106);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    background-color: rgb(255, 0, 149);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    background-color: rgb(0, 217, 255);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.six{
+    background-color: #90f;
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.seven{
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.eight{
+    background-color: rgb(102, 255, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.nine{
+    background-color: rgb(255, 0, 179);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ten{
+    background-color: rgb(238, 255, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.eleven{
+    background-color: rgb(0, 255, 64);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.twelve{
+    background-color: #90f;
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.thirteen{
+    background-color: rgb(0, 195, 255);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fourteen{
+    background-color: rgb(51, 255, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fifteen{
+    background-color: rgb(255, 0, 0);
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    background-color: rgb(25, 0, 255);
+    color: white;
+    font-size: 20px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
